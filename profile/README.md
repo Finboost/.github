@@ -29,12 +29,12 @@ This project holds significant value for any organization or stakeholder investe
 
 ### Machine Learning
 
--
+- [finboost-ml](https://github.com/Finboost/finboost-ml)
 
 ### Cloud Computing
 
--
+- [finboost-backend](https://github.com/Finboost/finboost-backend)
 
 ### Mobile Development
 
--
+- [finboost](https://github.com/Finboost/finboost)
